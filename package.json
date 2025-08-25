@@ -1,0 +1,19 @@
+{
+  "name": "estudosfe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-imagemin": "^9.1.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.89.2"
+  }
+}
